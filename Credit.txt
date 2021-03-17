@@ -305,7 +305,8 @@ l0300
 [Grazie a tutti voi.]0129-0032
 -0240
 +0120
-[Versione Italiana by Simon M.]0000
+[Versione italiana by]0000-0016
+[Bi-Rabittoh e Cherryello]0000-0016
 -0240
 +0120
 [Cave Story ~ Fine]0000
