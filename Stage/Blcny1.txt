@@ -43,7 +43,7 @@ rischi di cadere!<NOD<END
 
 #0201
 <PRI<MSG<TUR
-            QUESTO E' TUTTO, GENTE!<NOD<END
+            QUESTO È TUTTO, GENTE!<NOD<END
 
 #0210
 <PRI<FLJ1191:0211<FLJ1192:0212

@@ -81,7 +81,7 @@ Dirigiti verso il Corridoio delle Uova.
 #0600
 <FLJ0325:0601
 <KEY<MSG<FAC0009Bentornato.<NOD<CLRSue è tornata.<NOD
-E' stata messa sotto 
+È stata messa sotto 
 chiave dentro la gabbia 
 là fuori.<NOD
 Quando si presenteranno 
@@ -206,7 +206,7 @@ stati completamente
 smantellati,<ANP0621:0000:0000<NOD
 ma non conosco i
 dettagli.<NOD
-E' decisamente possibile 
+È decisamente possibile 
 che uno di essi possa...<NOD<CLR<FAC0010Professore.<NOD
 Mi sono connesso alla Zona 
 di Sabbia.<NOD<CLR<FAC0018Capisco.<NOD<CLO<FAC0000
@@ -236,7 +236,7 @@ ben costruito.<NOD<END
 <KEY<MSG<FAC0001Se riesci a fare piazza 
 pulita dei fiori, dovremmo 
 riuscire a prevenire
-la guerra... per adesso.<NOD<CLRE' una grande 
+la guerra... per adesso.<NOD<CLRÈ una grande 
 responsabilità.<NOD<END
 
 

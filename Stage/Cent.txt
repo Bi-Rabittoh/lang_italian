@@ -47,7 +47,7 @@ del Teletrasporto=.<NOD<CLO
 <KEY<FAO0000<TRA0061:0090:0029:0009
 
 #0150
-<PRI<FLJ1030:0151<MSGE' ancora troppo presto per venire
+<PRI<FLJ1030:0151<MSGÈ ancora troppo presto per venire
 qui...<NOD<END
 
 #0151
@@ -173,9 +173,9 @@ coltivazione.<NOD<END
 <MSGOh, hey, sei tu.<NOD<CLRHo catturato una cosa strana
 poco fa.<NOD
 Puoi averla, se vuoi.<NOD
-E' là dietro nel secchio.<NOD<END
+È là dietro nel secchio.<NOD<END
 #0261
-<PRI<MSGE' là dietro nel secchio...<NOD<END
+<PRI<MSGÈ là dietro nel secchio...<NOD<END
 #0262
 <PRI<MSGDove va questa chiave, mi domando?<NOD<CLRPenseresti che ci fosse
 una toppa corrispondente qui intorno...<NOD<CLRUff, ho fame...<NOD<END
@@ -186,7 +186,7 @@ una toppa corrispondente qui intorno...<NOD<CLRUff, ho fame...<NOD<END
 <PRI
 <FLJ1022:0267
 <FLJ1035:0266
-<MSGE' un secchio. Ci si mettono
+<MSGÈ un secchio. Ci si mettono
 i pesci dopo averli catturati.<NOD<END
 
 #0266
@@ -275,7 +275,7 @@ Gli altri robot l'avevano
 ridotta in briciole...<NOD<CLRUn numero spropositato 
 di Mimiga furono 
 uccisi...<NOD
-<FAC0020E' stato... terribile...<NOD<CLR<FAC0025Finalmente, un uomo 
+<FAC0020È stato... terribile...<NOD<CLR<FAC0025Finalmente, un uomo 
 entrò in possesso della
 =Corona Demoniaca=.<NOD<CLRIl lavoro dei Robot era
 finito, e l'isola cadde
@@ -374,7 +374,7 @@ ad enorme velocità.<NOD<END
 <PRI<MSGHey! Quello ci serve qui!<NOD<END
 
 #0415
-<PRI<MSGE' fermo.<NOD<FLJ1029:0416<END
+<PRI<MSGÈ fermo.<NOD<FLJ1029:0416<END
 #0416
 <PRI<DNP0415<FL-1028<GIT1028<IT+0028<MSG
 <CMU0010Hai preso lo =Spruzzatore Rotto=.<WAI0160<NOD<RMU<END

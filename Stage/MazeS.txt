@@ -28,7 +28,7 @@
 
 
 #0200
-<PRI<FLJ0201:0201<MSGE' bloccato da un incantesimo.
+<PRI<FLJ0201:0201<MSGÈ bloccato da un incantesimo.
 Non si smuove...<NOD<END
 #0201
 <FLJ0766:0001<FL+0766<FL-0765<FL+0202
@@ -63,7 +63,7 @@ vero?<NOD<CLRNe dubito.<NOD
 Su, andiamo, prendi 
 quel lato.<NOD<ANP0300:0020:0000<END
 #0302
-<PRI<MSGE' completamente priva di sensi.<NOD<END
+<PRI<MSGÈ completamente priva di sensi.<NOD<END
 #0303
 <PRI<MSG<FAC0019Andiamo?<NOD<CLRC'è un intero nido 
 di mostri che ci aspetta!!<NOD<END
@@ -138,7 +138,7 @@ DI QUELLO CHE HO DETTO?!<NOD
 <KEY
 <FLJ0762:0502
 <FLJ0761:0501
-<MSGE' una enorme, imponente roccia.<NOD
+<MSGÈ una enorme, imponente roccia.<NOD
 Puoi sentire il vento soffiare
 da dietro.<NOD
 Sembra che ci vogliano
@@ -152,7 +152,7 @@ di più verso l'altro
 lato?<NOD<CLO
 <ANP0300:0020:0000<END
 #0502
-<PRI<MSGE' una enorme, imponente roccia.<NOD<END
+<PRI<MSGÈ una enorme, imponente roccia.<NOD<END
 
 #0510
 #0511

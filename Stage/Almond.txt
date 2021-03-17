@@ -57,7 +57,7 @@ ABBASSANDO ASCENSORE...<NOD<CLO<FON0257:0016
 ASCENSORE ABBASSATO.<NOD<END
 #0203
 <KEY<MSG
-L'ASCENSORE E' ABBASSATO.<NOD<END
+L'ASCENSORE È ABBASSATO.<NOD<END
 #0204
 <KEY<MSG
 ERRORE.<NOD<END
@@ -77,14 +77,14 @@ CANCELLO APERTO.<NOD<END
 ERRORE.<NOD<END
 
 #0240
-<PRI<FLJ0828:0241<MSGC'e' qualcosa attorno 
+<PRI<FLJ0828:0241<MSGC'È qualcosa attorno 
 il braccio rotto del robot.<NOD<CLRVuoi prenderla?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
 <CMU0010Preso il =Cavo di Stoppa=.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
 ...?<NOD<END
 #0242
-<PRI<MSGE' tutto attorcigliato.
+<PRI<MSGÈ tutto attorcigliato.
 Non si riesce a sbrogliare...<NOD<END
 
 #0250
@@ -94,7 +94,7 @@ Non si riesce a sbrogliare...<NOD<END
 #0254
 #0255
 <PRI<MSGUn robot rotto.<NOD
-E' severamente danneggiato.<NOD<END
+È severamente danneggiato.<NOD<END
 
 #0256
 
@@ -176,7 +176,7 @@ sbloccato.<NOD<CLO<WAI0050<ANP0253:0010:0001
 <FLJ0828:0305
 <MYB0002<WAI0030<MYD0002<MSG<FAC0019Guarda.<NOD<CLRQuesto è un soldato
 dalla superficie.<NOD
-E' tutto malconcio.<NOD<CLO<FAC0000
+È tutto malconcio.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
 <MSG<FAC0025Ce ne sono un sacco come 
@@ -188,7 +188,7 @@ danno...<NOD<CLO
 <ANP0450:0001:0002<MSG
 <FAC0025!!!<WAI0050<CLO<FAC0000
 <WAI0030<ANP0450:0001:0002<MSG
-<FAC0019E' ancora vivo!!<NOD<CLR
+<FAC0019È ancora vivo!!<NOD<CLR
 <FAC0024*Bzzbzbzztbz*<NOD<CLRTEAM 9 ANNIENTATO<NOD
 DISTRUZIONE OBBIETTIVO 
 FALLITA<NOD<CLRFORZE ATTUALI
@@ -222,7 +222,7 @@ RITIRATA!!<NOD<CLO
 <MSG<FAC0019Ci siamo riusciti?!<WAI0100<NOD<CLO<FAC0000
 <FON0401:0016<CNP0400:0067:0002<WAI0050
 <MSG<FAC0026Hmph!<NOD<CLRVe la siete cavata, vedo!<NOD<CLR<FAC0019Tu!<NOD<CLRTu sei quella strega che
-mi ha scaraventato qui!<NOD<CLRE' meglio che i bambini 
+mi ha scaraventato qui!<NOD<CLRÈ meglio che i bambini 
 siano sani e salvi!<NOD<CLR<FAC0016Ha! Taci!<NOD<CLRCredi di essere la loro 
 madre?<NOD
 Ma almeno lo sai cosa

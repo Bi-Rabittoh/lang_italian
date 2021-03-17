@@ -43,7 +43,7 @@ ne coltiviamo.<NOD<END
 #0220
 <KEY<FLJ1020:0221<MSGUn irrigatore.<NOD<END
 #0221
-<KEY<MSGE' saldamente fissato per terra!<NOD<END
+<KEY<MSGÈ saldamente fissato per terra!<NOD<END
 
 #0300
 <PRI

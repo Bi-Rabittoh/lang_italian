@@ -92,7 +92,7 @@ d'aria abbia funzionato
 come speravo.<NOD<CLR
 <FAC0020Ah...<NOD<CLO<FAC0000<ANP0260:0001:0000
 <WAI0050
-<MSGE' caduta in un sonno profondo.<NOD
+<MSGÈ caduta in un sonno profondo.<NOD
 <END
 #0254
 <KEY<MSGSembra che le ci voglia un po'

@@ -86,13 +86,13 @@ Non è che hai visto fantasmi,
 vero?<NOD<END
 #0313
 <KEY<MSGOh, sei venuto a far visita
-a quella ragazza?<NOD<CLRE' andata via, diretta verso
+a quella ragazza?<NOD<CLRÈ andata via, diretta verso
 la "Camera del Macigno".<NOD<END
 
 #0320
 <FLJ0702:0322
 <FLJ0701:0321<FL+0701
-<KEY<MSG<FAC0019Oh, hey!<NOD<CLRE' un po' che non ti
+<KEY<MSG<FAC0019Oh, hey!<NOD<CLRÈ un po' che non ti
 vedo.<NOD
 Ti trovo in forma!<NOD<CLRQuella strega ha 
 schiaffato qui pure te, eh?<NOD

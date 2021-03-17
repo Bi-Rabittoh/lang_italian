@@ -62,7 +62,7 @@ sulla superficie!<NOD<END
 al momento giusto.<NOD<GIT1015<IT+0015<CLR
 <FAC0000Hai ricevuto un =Contenitore della Vita=!<WAI0030<NOD<GIT0000<CLR<FAC0013Torna quando
 te ne serve un altro.<NOD
-E' il minimo che questa
+È il minimo che questa
 povera vecchia possa fare...<NOD<END
 #0232
 <KEY<MSG<FAC0013Anche una stregona come me

@@ -45,7 +45,7 @@ Tutto bene.<NOD
 E quella babbea di mia 
 figlia come sta?<NOD<CLR<FAC0014Hee-hee-hee!<NOD
 Babbea? Vuoi dire Misery?<NOD
-Sta bene, sta bene.<NOD<CLRE' comparso un nuovo 
+Sta bene, sta bene.<NOD<CLRÈ comparso un nuovo 
 padrone.<NOD
 Questa volta, la terra
 sarà nostra!<NOD<CLR<FAC0013E quindi per l'ennesima 
@@ -101,7 +101,7 @@ fiori rossi.<NOD<END
 
 
 #0220
-<KEY<MSG<FAC0013Cielo, che velocità.<NOD<CLR<GIT1014E' proprio uno dei
+<KEY<MSG<FAC0013Cielo, che velocità.<NOD<CLR<GIT1014È proprio uno dei
 miei cuccioli.<NOD<CLR
 <GIT0000<CNP0301:0130:0000<DNP0401<FAC0000Le hai dato il =Cucciolo=.<NOD<CLR<FL-0274<FAC0013Hmmm...<NOD
 Tu sei un soldato della
@@ -142,7 +142,7 @@ Se li mangiarono, e
 combatterono i robot.<NOD<CLR
 Però...<NOD<CLRSai cosa gli 
 successe dopo?<NOD<CLR.....
-<NOD<CLRE' una triste storia...<NOD
+<NOD<CLRÈ una triste storia...<NOD
 I Mimiga impazziti,
 ormai incapaci di 
 controllare le loro 

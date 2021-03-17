@@ -298,7 +298,7 @@ L'orgoglio di Itoh, il codardo.<WAI9999<END
 #6028
 <MSG<TURUno spruzzatore fuori uso.<WAI9999<END
 #6029
-<MSG<TURE' nuovo di zecca... forse.<WAI9999<END
+<MSG<TURÈ nuovo di zecca... forse.<WAI9999<END
 #6030
 <MSG<TURUn cavo da rimorchio per robot.<WAI9999<END
 #6031

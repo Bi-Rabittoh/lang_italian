@@ -67,7 +67,7 @@ fermarlo.<NOD<CLO<FAC0000
 che fuggire...<NOD<CLRPotremmo farlo
 se usassimo un
 Drago del Cielo.<NOD
-E' per questo che sono qui.<NOD<CLRIl mio drago 
+È per questo che sono qui.<NOD<CLRIl mio drago 
 si è appena schiuso.<NOD<CLO<FAC0000
 <WAI0050<ANP0400:0000:0000<WAI0100
 <MSG<FAC0010Vuoi fuggire con me?<YNJ0501<FL+0960<CLR<ANP0400:0000:0002Già, non c'è altro modo.<NOD

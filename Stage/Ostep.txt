@@ -27,7 +27,7 @@
 #0900
 <DNP0900
 <KEY<MYD0002<MSGPer favore, uccidi la mia padrona.<NOD
-E' l'unico modo in cui Misery 
+È l'unico modo in cui Misery 
 potrà essere veramente libera...<NOD
 ...l'unico modo per non
 ripetere questa tragedia.<NOD<CLRIl mio padrone si chiama Ballos.<NOD<CLRI suoi poteri magici sono fuori 

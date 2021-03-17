@@ -38,7 +38,7 @@
 <KEY
 <FLJ1272:0204
 <FLJ1270:0202
-<FLJ1271:0201<MSGOh, è il Sig. Viaggiatore!<NOD<FLJ1020:0205<CLRE' venuto per salvarmi?<NOD<END
+<FLJ1271:0201<MSGOh, è il Sig. Viaggiatore!<NOD<FLJ1020:0205<CLRÈ venuto per salvarmi?<NOD<END
 #0201
 <PRI<MSGPuoi farcela!<NOD<END
 #0202
@@ -148,7 +148,7 @@ contengono una sostanza
 che risveglia i propri 
 poteri latenti,<NOD<CLRma anche 
 una che elimina le 
-facoltà di ragionamento.<NOD<CLRE' questa che ho 
+facoltà di ragionamento.<NOD<CLRÈ questa che ho 
 estratto e concentrato con
 grande successo.<NOD<CLRLa puoi vedere in
 questa forma...<NOD<CLO<FAC0000

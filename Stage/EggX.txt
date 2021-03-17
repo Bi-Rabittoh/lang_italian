@@ -50,7 +50,7 @@ essere vivente!<NOD<FAC0000<CLO<EVE0203
 #0202
 <FAC0002Hmph...<NOD<CLRBeh, okay.<NOD<FAC0000<CLO<EVE0203
 #0203
-<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh!<NOD<MYD0003<CLRGuarda! E'... credo
+<WAI0050<MSG<ANP0200:0005:0002<FAC0001Oh!<NOD<MYD0003<CLRGuarda! È... credo
 sia il numero 00!<NOD<CLRQuest'uovo potrebbe essere 
 il nostro biglietto 
 d'andata da 

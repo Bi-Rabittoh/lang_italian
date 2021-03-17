@@ -118,7 +118,7 @@ comunicare senza problemi.<NOD<CLRMi hai seguito fin qua?<NOD<EVE0207
 
 #0206
 <KEY<MSG<FAC0022<CLRDovresti rintracciarmi un 
-uomo chiamato Itoh.<NOD<CLRE' davvero un codardo di 
+uomo chiamato Itoh.<NOD<CLRÈ davvero un codardo di 
 prima categoria, quindi 
 non credo si sia 
 allontanato molto.<NOD<END
@@ -156,14 +156,14 @@ Non posso utilizzarlo.<NOD<END
 all'orlo di corrente.<NOD
 Credo che possano andare.<NOD<GIT0000<SOU0011<CNP0250:0072:0002<CLO<WAI0030
 <MSGAdesso, mi dovresti trovare 
-un uomo chiamato Itoh.<NOD<CLRE' un "ingegnere di
+un uomo chiamato Itoh.<NOD<CLRÈ un "ingegnere di
 considerevole talento",
 per usare le sue 
 stesse parole.<NOD<CLRSi da anche il caso che
 sia uno dei uomini più 
 timorosi che abbia
 mai conosciuto.<NOD
-E' fuggito via dal Dottore
+È fuggito via dal Dottore
 immediatamente,
 ma non può essere lontano.<NOD<END
 

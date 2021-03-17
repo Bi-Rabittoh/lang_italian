@@ -26,7 +26,7 @@
 <PRI<MSGDici che mia moglie mi
 sta cercando?<NOD<CLR
 Sì, lo so,<NOD
-E' un po' che non mi faccio vedere a casa.<NOD
+È un po' che non mi faccio vedere a casa.<NOD
 Vabbè, è tempo che vada.<NOD<GIT1032<DNP0200<IT+0032<CLRTi dispiace accompagnarmi?<NOD<END
 
 #0300
