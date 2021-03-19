@@ -18,7 +18,7 @@ Porta il marchio della Stella del Nord.
 I suoi proiettili rimbalzano sul suolo.
 Molto utile sui pendii.<WAI9999<END
 #1004
-<MSG<TURMITRAGLIATORE
+<MSG<TURMITRAGLIATRICE
 Un'arma da fuoco che spara ripetutamente.
 Le munizioni si ricaricano gradualmente.<WAI9999<END
 #1005
@@ -179,10 +179,10 @@ Lettera di Sue<WAI9999<END
 Controller<WAI9999<END
 #5028
 <MSG<TUR
-Annaffiatoio rotto<WAI9999<END
+Irrigatore rotto<WAI9999<END
 #5029
 <MSG<TUR
-Annaffiatoio<WAI9999<END
+Irrigatore<WAI9999<END
 #5030
 <MSG<TUR
 Fune da traino<WAI9999<END
@@ -294,7 +294,7 @@ dalle armi nemiche.<WAI9999<END
 #6020
 <MSG<TUR
 Aumenta la velocità con la quale
-le munizioni del mitragliatore si ricaricano.<WAI9999<END
+le munizioni della mitragliatrice si ricaricano.<WAI9999<END
 #6021
 <MSG<TUR
 Permette di respirare sott'acqua.
@@ -336,10 +336,11 @@ Quella corona apparteneva al<NOD
 signore di quest'isola...<NOD<CLR
 ...e garantisce a chi la indossa
 un immenso potere magico. <NOD<CLR
-Il Dottore sapeva tutto ciò dapprima
+Il Dottore sapeva tutto ciò da prima
 di venire sull'isola. È il motivo per cui
-è voluto per forza venire col gruppo.<NOD<CLR
-Dopo che prese coscienza del vero potere
+ha insistito così tanto per unirsi
+al gruppo.<NOD<CLR
+Quando prese coscienza del vero potere
 della corona, era già troppo tardi.<NOD<CLR
 L'unica cosa che potevamo fare era
 continuare la ricerca sull'isola
@@ -356,17 +357,17 @@ Mimiga per produrre una quantità
 industriale di fiori rossi. <NOD<CLR
 E una volta che sarà pronto all'attacco...<NOD
 porterà i Mimiga in uno stato di
-insana follia facendo loro mangiare<NOD
+pura follia facendo loro mangiare<NOD
 i fiori rossi.<NOD<CLR
 Con questi poteri derivati dalla corona
 controllerà sia loro che me.<NOD<CLR
-Se riuscirai a uscire dalla cella, ti prego<NOD
-di cercare una certa casa nascosta
-da qualche parte nella Piantagione.<NOD<CLR
+Se riesci a uscire dalla cella, cerca<NOD
+una certa casa nascosta da qualche
+parte nella Piantagione.<NOD<CLR
 Se mia madre è ancora viva, allora
 starà studiando con le sue sole forze
 un piano per sconfiggere il Dottore.<NOD<CLR
-Ti prego, aiutala per quanto ti è possibile.<NOD<CLR
+Ti prego, fa' il possibile per aiutarla.<NOD<CLR
 Prima che me ne dimentichi, la parola
 d'ordine per accedere è "yrotS evaC"."<NOD<CLR<FL+1024<FRE<MSG
 Hai finito di leggere la lettera.<WAI9999<END
@@ -376,7 +377,7 @@ Hai finito di leggere la lettera.<WAI9999<END
 Orgoglio di Itoh, il gran codardo.<WAI9999<END
 #6028
 <MSG<TUR
-Un annaffiatoio rotto.<WAI9999<END
+Un irrigatore rotto.<WAI9999<END
 #6029
 <MSG<TUR
 È nuovo... no?<WAI9999<END
@@ -423,7 +424,7 @@ Equippaggiata la Capricciostella.<NOD<WAI0003<FRE<EVE5038
 <MSG<TUR
 La tua connessione con Curly Brace,
 l'unica persona di cui puoi davvero fidarti.
-Vi rincontrerete di nuovo...<WAI9999<END
+Vi rincontrerete...<WAI9999<END
 
 #7002
 <MLP<END
