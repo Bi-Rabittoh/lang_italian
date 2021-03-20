@@ -8,7 +8,7 @@
 #0016
 <PRI<MSG
 Vuoi salvare i progressi di gioco?<YNJ0000<FL+0431<SVP<CLR
-Hai salvato la partita.<NOD<END
+Hai salvato il gioco.<NOD<END
 
 #0017
 <PRI<FLJ0201:0018
