@@ -3,8 +3,10 @@
 
 Translated by Bi-Rabittoh and Cherryello.
 
-## WIP Stuff
+## Current progress
 The following files have been translated:
+- [X] Cave.txt
+- [X] Shelt.txt
 - [ ] 0.txt
 - [ ] Almond.txt
 - [ ] Ballo1.txt
@@ -12,7 +14,6 @@ The following files have been translated:
 - [ ] Barr.txt
 - [ ] Blcny1.txt
 - [ ] Blcny2.txt
-- [X] Cave.txt
 - [ ] Cemet.txt
 - [ ] Cent.txt
 - [ ] CentW.txt
@@ -92,7 +93,6 @@ The following files have been translated:
 - [ ] Sand.txt
 - [ ] SandE.txt
 - [ ] Santa.txt
-- [X] Shelt.txt
 - [ ] Start.txt
 - [ ] Statue.txt
 - [ ] Stream.txt
