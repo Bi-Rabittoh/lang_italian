@@ -5,6 +5,44 @@ Translated by Bi-Rabittoh and Cherryello.
 
 ## WIP Stuff
 The following files have been translated:
+- [ ] 0.txt
+- [ ] Almond.txt
+- [ ] Ballo1.txt
+- [ ] Ballo2.txt
+- [ ] Barr.txt
+- [ ] Blcny1.txt
+- [ ] Blcny2.txt
+- [X] Cave.txt
+- [ ] Cemet.txt
+- [ ] Cent.txt
+- [ ] CentW.txt
+- [ ] Chako.txt
+- [ ] Clock.txt
+- [ ] Comu.txt
+- [ ] Cthu.txt
+- [ ] Cthu2.txt
+- [ ] Curly.txt
+- [ ] CurlyS.txt
+- [ ] Dark.txt
+- [ ] Drain.txt
+- [ ] e_Blcn.txt
+- [ ] e_Ceme.txt
+- [ ] e_Jenk.txt
+- [ ] e_Labo.txt
+- [ ] e_Malc.txt
+- [ ] e_Maze.txt
+- [ ] e_Sky.txt
+- [ ] EgEnd1.txt
+- [ ] EgEnd2.txt
+- [ ] Egg1.txt
+- [ ] Egg6.txt
+- [ ] EggR.txt
+- [ ] EggR2.txt
+- [ ] Eggs.txt
+- [ ] Eggs2.txt
+- [ ] EggX.txt
+- [ ] EggX2.txt
+- [ ] Fall.txt
 - [ ] Frog.txt
 - [ ] Gard.txt
 - [ ] Hell1.txt
@@ -54,7 +92,7 @@ The following files have been translated:
 - [ ] Sand.txt
 - [ ] SandE.txt
 - [ ] Santa.txt
-- [ ] Shelt.txt
+- [X] Shelt.txt
 - [ ] Start.txt
 - [ ] Statue.txt
 - [ ] Stream.txt
@@ -64,4 +102,6 @@ The following files have been translated:
 - [ ] WeedS.txt
 
 ## Contact us
-You can message us at our personal Discord Bi-Rabittoh#5566 and Cherryello#4156.
+You can message us at our personal Discord accounts:
+- Bi-Rabittoh#5566
+- Cherryello#4156.
